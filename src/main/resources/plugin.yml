@@ -1,0 +1,5 @@
+name: LunaticAxe
+version: '${project.version}'
+main: dev.missingdrift.lunaticaxe.LunaticAxe
+api-version: 1.19
+authors: [ MissingDrift ]
